@@ -1,0 +1,61 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  background: #2563eb;
+  color: white;
+}
+
+.links a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.page {
+  padding: 20px;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  background: #eee;
+  padding: 10px;
+}
+
+.app.dark {
+  background: #111;
+  color: white;
+}
+.info-card {
+  background: white;
+  padding: 18px;
+  border-radius: 14px;
+  border: 1px solid #e5e7eb;
+  margin-bottom: 20px;
+}
+
+.app.dark .info-card {
+  background: #1e293b;
+}
+
+.info-card h3 {
+  margin: 6px 0;
+}
+
+.info-card span {
+  color: #2563eb;
+  font-weight: 800;
+}
+
+.big {
+  font-size: 32px;
+  font-weight: 900;
+  margin-top: 10px;
+}
