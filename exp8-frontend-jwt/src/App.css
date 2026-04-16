@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #dbeafe, #f0f9ff);
+}
+
+.main-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-card,
+.dashboard-card {
+  width: 100%;
+  max-width: 450px;
+  border-radius: 16px !important;
+  padding: 10px;
+}
