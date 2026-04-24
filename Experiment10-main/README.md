@@ -57,9 +57,9 @@ Server runs on: `http://localhost:5000`
 - **Body (JSON):**
 ```json
 {
-  "name": "Rahul",
-  "email": "rahul@gmail.com",
-  "course": "BCA"
+  "name": "Krrish",
+  "email": "Krrishparashar@gmail.com",
+  "course": "AIML"
 }
 ```
 
@@ -77,8 +77,8 @@ Server runs on: `http://localhost:5000`
 - **Body (JSON):**
 ```json
 {
-  "name": "Rahul Kumar",
-  "course": "MCA"
+  "name": "Krrish Parashar",
+  "course": "AIML"
 }
 ```
 
